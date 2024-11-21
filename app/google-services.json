@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "383494816896",
+    "firebase_url": "https://my-november-project-6e913-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-november-project-6e913",
+    "storage_bucket": "my-november-project-6e913.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383494816896:android:4716200e9f44b65d06d265",
+        "android_client_info": {
+          "package_name": "com.piyushnanwani.mynovemberapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2MMg9Lef8_GAFFxvi9KB2M_HE8bxCEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
